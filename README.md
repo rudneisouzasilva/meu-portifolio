@@ -1,5 +1,7 @@
 # Portfólio de Rudnei Souza Silva
 
+**No ar:** https://rudnei-souza.vercel.app
+
 Site pessoal com meus projetos, trajetória e contato. Infraestrutura de TI, desenvolvimento web e IA aplicada.
 
 É uma página estática (HTML e CSS em um único arquivo, `index.html`), sem build e sem dependências. As fontes vêm do Google Fonts.
@@ -8,13 +10,9 @@ Site pessoal com meus projetos, trajetória e contato. Infraestrutura de TI, des
 
 Abra o `index.html` no navegador.
 
-## Publicar no GitHub Pages
+## Publicação
 
-1. Em **Settings → Pages**, em *Build and deployment*, escolha **Deploy from a branch**.
-2. Selecione a branch `main` e a pasta `/ (root)` e salve.
-3. Em alguns minutos o site fica em `https://rudneisouzasilva.github.io/meu-portifolio/`.
-
-O GitHub Pages em repositório privado exige um plano pago. No plano gratuito, deixe o repositório público antes de ativar.
+Hospedado na Vercel, ligado a este repositório: cada commit na `main` atualiza o site automaticamente.
 
 ## Projetos apresentados
 
