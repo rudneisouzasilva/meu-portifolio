@@ -1,4 +1,4 @@
-# Portfólio de Rudnei Souza Silva.
+# Portfólio de Rudnei Souza Silva
 
 **No ar:** https://rudnei-souza.vercel.app
 
